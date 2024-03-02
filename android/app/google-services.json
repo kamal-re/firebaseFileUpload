@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977399143022",
+    "project_id": "fir-fileupload-d673a",
+    "storage_bucket": "fir-fileupload-d673a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977399143022:android:b7dc5e7ec56692f2efa47f",
+        "android_client_info": {
+          "package_name": "com.example.fileuploadfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvLNv6t_cRNi5v0pO1haiKckjDrlaZkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
