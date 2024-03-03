@@ -270,7 +270,7 @@ class _UploadScreenState extends State<UploadScreen> {
                         children: [
                           VideoPlayer(_videoController!),
                           IconButton(
-                            icon: Icon(_isPlaying ? Icons.pause_circle_outline_rounded : Icons.play_circle_outline_rounded, color: Colors.white,size: 20,),
+                            icon: Icon(_isPlaying ? Icons.pause_circle_outline_rounded : Icons.play_circle_outline_rounded, color: Colors.white,size: 40,),
                             onPressed: () {
                               setState(() {
                                 _isPlaying ? _videoController!.pause() : _videoController!.play();
